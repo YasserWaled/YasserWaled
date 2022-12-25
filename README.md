@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning computers and systems engineering 
 - 
 - 📫 How to reach me ?
-- @ github 
-- 
-- @ LinkedIn
+- @ github:
+- https://github.com/YasserWaled
+- @ LinkedIn:
+- linkedin.com/in/yasser-waled-a3282621b/
 - 
 
 <!---
