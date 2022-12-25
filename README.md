@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @YasserWaled
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m software engineer 
+- 🌱 I’m currently learning computers and systems engineering 
+- 
+- 📫 How to reach me ?
+- @ github 
+- 
+- @ LinkedIn
+- 
 
 <!---
 YasserWaled/YasserWaled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
