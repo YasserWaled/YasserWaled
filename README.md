@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning computers and systems engineering 
 - 
 - 📫 How to reach me ?
+- email:
+- yasserwaled200079@gmail.com
 - @ github:
 - https://github.com/YasserWaled
 - @ LinkedIn:
